@@ -8,7 +8,6 @@ Offsets
 {"Player", "m_NickName", "Player_Name"},
 {"ReplicationEntity", "m_PRIDataPool", "Player_Data"},
 {"PlayerNetwork", "m_ShadowState", "Player_ShadowBase"},
-{"ShadowState", "TargetPhysXPose", "XPose"},
 {"PlayerNetwork.ShadowState", "TargetPhysXPose", "XPose"},
 {"Player", "m_AvatarManager", "AvatarManager"},
 {"AvatarManager", "m_Avatar", "Avatar"},
@@ -56,7 +55,7 @@ Bones
 {"Player", "m_LeftForeArmNode", "LeftElbow"},
 {"Player", "m_RightForeArmNode", "RightElbow"},
 {"Player", "m_LeftArmNode", "LeftShoulder"},
-{"Player", "m_RightArmNode", "RightShoulder"},
+{"Player", "m_RightArmNode", "Test"},
 
 
 Dictionary
