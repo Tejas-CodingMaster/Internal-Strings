@@ -55,7 +55,7 @@ Bones
 {"Player", "m_LeftForeArmNode", "LeftElbow"},
 {"Player", "m_RightForeArmNode", "RightElbow"},
 {"Player", "m_LeftArmNode", "LeftShoulder"},
-{"Player", "m_RightArmNode", "Test"},
+{"Player", "m_RightArmNode", "RightShoulder"},
 
 
 Dictionary
