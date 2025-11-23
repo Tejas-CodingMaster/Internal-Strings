@@ -57,3 +57,14 @@ Bones
 {"Player", "m_RightForeArmNode", "RightElbow"},
 {"Player", "m_LeftArmNode", "LeftShoulder"},
 {"Player", "m_RightArmNode", "RightShoulder"},
+
+
+Dictionary
+{ "// General", new HashSet<string>{ "DictionaryEntities", "MatchStatus", "CurrentMatch", "LocalPlayer" } },
+{ "// Player", new HashSet<string>{ "Player_Data", "Avatar_Data", "Avatar", "Player_Name", "CurrentMatch", "Player_IsDead", "Avatar_IsVisible", "Player_ShadowBase", "XPose", "AvatarManager", "Avatar_Data_IsTeam" } },
+{ "// Camera", new HashSet<string>{ "MainCameraTransform", "Camera", "FollowCamera", "AimRotation" } },
+{ "// Armas", new HashSet<string>{ "WeaponData", "ViewMatrixV2", "WeaponRecoil", "Weapon", "ViewMatrixV1" } },
+{ "// Silent Aim", new HashSet<string>{ "sAim2", "sAim3", "sAim4", "sAim1" } },
+{ "// ESP IN OBSERVE", new HashSet<string>{ "CurrentObserver", "ObserverPlayer" } },
+{ "// Aimbot Visible", new HashSet<string>{ "AimbotVisible" } },
+{ "// Speed Internal", new HashSet<string>{ "FixedDeltaTime", "GameTimer" } }
