@@ -59,7 +59,6 @@ Bones
 
 
 Dictionary
-Dictionary
 { "// General", ["DictionaryEntities","MatchStatus","CurrentMatch","LocalPlayer"] },
 { "// Player", ["Player_Data","Avatar_Data","Avatar","Player_Name","CurrentMatch","Player_IsDead","Avatar_IsVisible","Player_ShadowBase","XPose","AvatarManager","Avatar_Data_IsTeam"] },
 { "// Camera", ["MainCameraTransform","Camera","FollowCamera","AimRotation"] },
